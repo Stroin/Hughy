@@ -14,8 +14,8 @@ TagManager:
   - Floor
   - Player
   - Hazards
-  - 
-  - 
+  - Coin
+  - Star
   - 
   - 
   - 
@@ -38,6 +38,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 659357437
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
